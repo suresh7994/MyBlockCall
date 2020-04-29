@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Block Call</string>
+    <string name="receiver_notify_call_rejected">Call rejected</string>
+    <string name="receiver_notify_private_number">Private numberList</string>
+    <string name="blacklist_permissions_required">CallBlocker doesn\'t have the permissions to work.</string>
+    <string name="blacklist_request_permissions">Request permissions</string>
+
+
+</resources>
